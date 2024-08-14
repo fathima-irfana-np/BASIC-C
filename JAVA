@@ -1,5 +1,4 @@
-// A Java program to demonstrate random number generation
-// using java.util.Random;
+
 import java.util.Random;
 
 public class generateRandom{
